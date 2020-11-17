@@ -17,3 +17,5 @@ I write the message `Hello World !` and chooses the Linear Cypher with the key v
 
 I write the message `Hello World !` and chooses the Non Linear Cypher with the key value 5, so the program add + 5 for every carachter in the text.
 `Hello World !` + 5 --> `ifjgjQkvsy)]yyvm&` .
+
+obs: The crip.py is the main program and criptografia.py is where the funcions are.
